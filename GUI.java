@@ -56,7 +56,7 @@ public class GUI {
     lbResult.setBounds( 10, 30, 500, 20 );
     option2Result = new JLabel( "please enter the office hour ID that you'd like to book");
     option2Result.setBounds( 10, 100, 500, 20 );
-    option2Label = new JLabel( "OPTION 2");
+    option2Label = new JLabel( "OPTION 2 (Enter Both Fields to Submit)");
     option2Label.setBounds( 10, 80, 500, 20 );
     option1Label = new JLabel( "OPTION 1");
     option1Label.setBounds( 10, 10, 500, 20 );
