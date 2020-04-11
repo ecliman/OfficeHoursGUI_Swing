@@ -52,7 +52,7 @@ public class GUI {
     btnSubmitBook.setBounds( 10, 220, 120, 20 );
 
     // Create the label to display the result
-    lbResult = new JLabel( "Enter your student number to retreive your Office Hours Resevation(s)");
+    lbResult = new JLabel( "Enter your student number to delete your Office Hours Resevation(s)");
     lbResult.setBounds( 10, 30, 500, 20 );
     option2Result = new JLabel( "please enter the office hour ID that you'd like to book");
     option2Result.setBounds( 10, 100, 500, 20 );
